@@ -1,6 +1,9 @@
 [
     {
-        "V":"1.7.0.5"
+        "name": "BBFAS-GTA.exe",
+        "version": "1.7.0.5",
+        "savePath": "BBFAS-GTA.exe",
+        "url": "https://github.com/bbfas/882333/blob/main/bb/BBFAS-GTA.exe"
     },
     {
         "name": "BincoHaXUI.exe",
