@@ -1,0 +1,32 @@
+[
+    {
+        "name": "BincoHaXUI.exe",
+        "version": "1.7.0.1",
+        "savePath": "BincoHaXUI.exe",
+        "url": "https://github.com/bbfas/882333/blob/main/bb/BincoHaXUI.exe"
+    },
+    {
+        "name": "GTAHaXUI.exe",
+        "version": "1.7.0.1",
+        "savePath": "GTAHaXUI.exe",
+        "url": "https://github.com/bbfas/882333/blob/main/bb/GTAHaXUI.exe"
+    },
+    {
+        "name": "LSCHax.exe",
+        "version": "1.7.0.1",
+        "savePath": "LSCHax.exe",
+        "url": "https://github.com/bbfas/882333/blob/main/bb/LSCHax.exe"
+    },
+    {
+        "name": "OutfitEditor.exe",
+        "version": "1.7.0.1",
+        "savePath": "OutfitEditor.exe",
+        "url": "https://github.com/bbfas/882333/blob/main/bb/OutfitEditor.exe"
+    },
+    {
+        "name": "STAT_EDITOR.exe",
+        "version": "1.7.0.1",
+        "savePath": "STAT_EDITOR.exe",
+        "url": "https://github.com/bbfas/882333/blob/main/bb/STAT_EDITOR.exe"
+    }
+]
