@@ -1,5 +1,9 @@
 [
     {
+    "V":"1.7.0.4",
+    "downurl":"https://github.com/bbfas/882333/blob/main/bb/BBFAS-GTA.exe"
+    }，
+    {
         "name": "BincoHaXUI.exe",
         "version": "1.7.0.1",
         "savePath": "BincoHaXUI.exe",
