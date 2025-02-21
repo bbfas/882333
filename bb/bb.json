@@ -1,1 +1,58 @@
-404: Not Found
+[
+  {
+    "Name": "BBFAS-GTA.exe",
+    "Version": "1.7.0.5",
+    "SavePath": "BBFAS-GTA.exe",
+    "Url": "https://github.com/bbfas/882333/blob/main/bb/BBFAS-GTA.exe",
+    "IsMainProgram": true,
+    "IsCustomUrl": false
+  },
+  {
+    "Name": "BincoHaXUI.exe",
+    "Version": "1.7.0.1",
+    "SavePath": "BincoHaXUI.exe",
+    "Url": "https://github.com/bbfas/882333/blob/main/bb/BincoHaXUI.exe",
+    "IsMainProgram": false,
+    "IsCustomUrl": false
+  },
+  {
+    "Name": "GTAHaXUI.exe",
+    "Version": "1.7.0.1",
+    "SavePath": "GTAHaXUI.exe",
+    "Url": "https://github.com/bbfas/882333/blob/main/bb/GTAHaXUI.exe",
+    "IsMainProgram": false,
+    "IsCustomUrl": false
+  },
+  {
+    "Name": "LSCHax.exe",
+    "Version": "1.7.0.1",
+    "SavePath": "LSCHax.exe",
+    "Url": "https://github.com/bbfas/882333/blob/main/bb/LSCHax.exe",
+    "IsMainProgram": false,
+    "IsCustomUrl": false
+  },
+  {
+    "Name": "OutfitEditor.exe",
+    "Version": "1.7.0.1",
+    "SavePath": "OutfitEditor.exe",
+    "Url": "https://github.com/bbfas/882333/blob/main/bb/OutfitEditor.exe",
+    "IsMainProgram": false,
+    "IsCustomUrl": false
+  },
+  {
+    "Name": "STAT_EDITOR.exe",
+    "Version": "1.7.0.1",
+    "SavePath": "STAT_EDITOR.exe",
+    "Url": "https://github.com/bbfas/882333/blob/main/bb/STAT_EDITOR.exe",
+    "IsMainProgram": false,
+    "IsCustomUrl": false
+  },
+  {
+    "Name": "YimMenu.dll",
+    "Version": "Nightly [c8e6a69]",
+    "SavePath": "YimMenu.dll",
+    "Url": "https://github.com/Mr-X-GTA/YimMenu/releases/download/nightly/YimMenu.dll",
+    "IsMainProgram": false,
+    "IsCustomUrl": true
+  }
+]
