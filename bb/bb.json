@@ -4,41 +4,56 @@
         "version": "1.7.0.5",
         "savePath": "BBFAS-GTA.exe",
         "url": "https://github.com/bbfas/882333/blob/main/bb/BBFAS-GTA.exe",
-        "IsMainProgram": true
+        "IsMainProgram": true，
+        "IsCustomUrl": false
     },
     {
         "name": "BincoHaXUI.exe",
         "version": "1.7.0.1",
         "savePath": "BincoHaXUI.exe",
         "url": "https://github.com/bbfas/882333/blob/main/bb/BincoHaXUI.exe",
-        "IsMainProgram": false
+        "IsMainProgram": false，
+        "IsCustomUrl": false
     },
     {
         "name": "GTAHaXUI.exe",
         "version": "1.7.0.1",
         "savePath": "GTAHaXUI.exe",
         "url": "https://github.com/bbfas/882333/blob/main/bb/GTAHaXUI.exe",
-        "IsMainProgram": false
+        "IsMainProgram": false，
+        "IsCustomUrl": false
     },
     {
         "name": "LSCHax.exe",
         "version": "1.7.0.1",
         "savePath": "LSCHax.exe",
         "url": "https://github.com/bbfas/882333/blob/main/bb/LSCHax.exe",
-        "IsMainProgram": false
+        "IsMainProgram": false，
+        "IsCustomUrl": false
     },
     {
         "name": "OutfitEditor.exe",
         "version": "1.7.0.1",
         "savePath": "OutfitEditor.exe",
         "url": "https://github.com/bbfas/882333/blob/main/bb/OutfitEditor.exe",
-        "IsMainProgram": false
+        "IsMainProgram": false，
+        "IsCustomUrl": false
     },
     {
         "name": "STAT_EDITOR.exe",
         "version": "1.7.0.1",
         "savePath": "STAT_EDITOR.exe",
         "url": "https://github.com/bbfas/882333/blob/main/bb/STAT_EDITOR.exe",
-        "IsMainProgram": false
+        "IsMainProgram": false，
+        "IsCustomUrl": false
+    }
+    ,
+    {
+        "name": "YimMenu.dll",
+        "version": "1.7.0.1",
+        "savePath": "YimMenu.dll",
+        "url": "https://github.com/Mr-X-GTA/YimMenu/releases/download/nightly/YimMenu.dll",
+        "IsMainProgram": false，
+        "IsCustomUrl": true
     }
 ]
