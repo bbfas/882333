@@ -50,7 +50,7 @@
     ,
     {
         "name": "YimMenu.dll",
-        "version": "1.7.0.1",
+        "version": "Nightly [c8e6a69]",
         "savePath": "YimMenu.dll",
         "url": "https://github.com/Mr-X-GTA/YimMenu/releases/download/nightly/YimMenu.dll",
         "IsMainProgram": false,
