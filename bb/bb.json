@@ -1,7 +1,7 @@
 [
   {
     "Name": "BBFAS-GTA.exe",
-    "Version": "1.7.0.5",
+    "Version": "1.7.0.6",
     "SavePath": "BBFAS-GTA.exe",
     "Url": "https://github.com/bbfas/882333/blob/main/bb/BBFAS-GTA.exe",
     "IsMainProgram": true,
@@ -33,7 +33,7 @@
   },
   {
     "Name": "OutfitEditor.exe",
-    "Version": "1.7.0.1",
+    "Version": "1.7.0.2",
     "SavePath": "OutfitEditor.exe",
     "Url": "https://github.com/bbfas/882333/blob/main/bb/OutfitEditor.exe",
     "IsMainProgram": false,
