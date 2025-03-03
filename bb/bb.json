@@ -1,7 +1,7 @@
 [
   {
     "Name": "BBFAS-GTA.exe",
-    "Version": "1.7.0.6",
+    "Version": "1.7.0.7",
     "SavePath": "BBFAS-GTA.exe",
     "Url": "https://github.com/bbfas/882333/blob/main/bb/BBFAS-GTA.exe",
     "IsMainProgram": true,
@@ -52,6 +52,14 @@
     "Version": "Nightly [c8e6a69]",
     "SavePath": "YimMenu.dll",
     "Url": "https://github.com/Mr-X-GTA/YimMenu/releases/download/nightly/YimMenu.dll",
+    "IsMainProgram": false,
+    "IsCustomUrl": true
+  },
+  {
+    "Name": "Stand.Launchpad.exe",
+    "Version": "Stand Launchpad 1.9.3",
+    "SavePath": "Stand.Launchpad.exe",
+    "Url": "https://github.com/calamity-inc/Stand-Launchpad/releases/latest/download/Stand.Launchpad.exe",
     "IsMainProgram": false,
     "IsCustomUrl": true
   }
