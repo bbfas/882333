@@ -1,66 +1,58 @@
 [
   {
     "Name": "BBFAS-GTA.exe",
-    "Version": "1.7.0.7",
+    "Version": "1.7.0.8",
     "SavePath": "BBFAS-GTA.exe",
     "Url": "https://github.com/bbfas/882333/blob/main/bb/BBFAS-GTA.exe",
-    "IsMainProgram": true,
-    "IsCustomUrl": false
+    "IsMainProgram": true
   },
   {
     "Name": "BincoHaXUI.exe",
     "Version": "1.7.0.1",
     "SavePath": "BincoHaXUI.exe",
-    "Url": "https://github.com/bbfas/882333/blob/main/bb/BincoHaXUI.exe",
-    "IsMainProgram": false,
-    "IsCustomUrl": false
+    "Url": "https://github.com/bbfas/882333/blob/main/bb/BincoHaXUI.exe"
   },
   {
     "Name": "GTAHaXUI.exe",
     "Version": "1.7.0.1",
     "SavePath": "GTAHaXUI.exe",
-    "Url": "https://github.com/bbfas/882333/blob/main/bb/GTAHaXUI.exe",
-    "IsMainProgram": false,
-    "IsCustomUrl": false
+    "Url": "https://github.com/bbfas/882333/blob/main/bb/GTAHaXUI.exe"
   },
   {
     "Name": "LSCHax.exe",
     "Version": "1.7.0.1",
     "SavePath": "LSCHax.exe",
-    "Url": "https://github.com/bbfas/882333/blob/main/bb/LSCHax.exe",
-    "IsMainProgram": false,
-    "IsCustomUrl": false
+    "Url": "https://github.com/bbfas/882333/blob/main/bb/LSCHax.exe"
   },
   {
     "Name": "OutfitEditor.exe",
     "Version": "1.7.0.2",
     "SavePath": "OutfitEditor.exe",
-    "Url": "https://github.com/bbfas/882333/blob/main/bb/OutfitEditor.exe",
-    "IsMainProgram": false,
-    "IsCustomUrl": false
+    "Url": "https://github.com/bbfas/882333/blob/main/bb/OutfitEditor.exe"
   },
   {
     "Name": "STAT_EDITOR.exe",
     "Version": "1.7.0.1",
     "SavePath": "STAT_EDITOR.exe",
-    "Url": "https://github.com/bbfas/882333/blob/main/bb/STAT_EDITOR.exe",
-    "IsMainProgram": false,
-    "IsCustomUrl": false
+    "Url": "https://github.com/bbfas/882333/blob/main/bb/STAT_EDITOR.exe"
   },
   {
     "Name": "YimMenu.dll",
     "Version": "Nightly [c8e6a69]",
     "SavePath": "YimMenu.dll",
-    "Url": "https://github.com/Mr-X-GTA/YimMenu/releases/download/nightly/YimMenu.dll",
-    "IsMainProgram": false,
-    "IsCustomUrl": true
+    "Url": "https://github.com/Mr-X-GTA/YimMenu/releases/download/nightly/YimMenu.dll"
   },
   {
     "Name": "Stand.Launchpad.exe",
     "Version": "Stand Launchpad 1.9.3",
     "SavePath": "Stand.Launchpad.exe",
-    "Url": "https://github.com/calamity-inc/Stand-Launchpad/releases/latest/download/Stand.Launchpad.exe",
-    "IsMainProgram": false,
-    "IsCustomUrl": true
+    "Url": "https://github.com/calamity-inc/Stand-Launchpad/releases/latest/download/Stand.Launchpad.exe"
+  }
+  ,
+  {
+    "Name": "bbupdater.exe",
+    "Version": "1.0",
+    "SavePath": "bbupdater.exe",
+    "Url": "https://github.com/bbfas/882333/blob/main/bb/bbupdater.exe"
   }
 ]
