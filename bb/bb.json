@@ -47,8 +47,7 @@
     "Version": "Stand Launchpad 1.9.3",
     "SavePath": "Stand.Launchpad.exe",
     "Url": "https://github.com/calamity-inc/Stand-Launchpad/releases/latest/download/Stand.Launchpad.exe"
-  }
-  ,
+  },
   {
     "Name": "bbupdater.exe",
     "Version": "1.0",
