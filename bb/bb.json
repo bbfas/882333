@@ -50,7 +50,7 @@
   },
   {
     "Name": "bbupdater.exe",
-    "Version": "1.0",
+    "Version": "1.1",
     "SavePath": "bbupdater.exe",
     "Url": "https://github.com/bbfas/882333/blob/main/bb/bbupdater.exe"
   }
